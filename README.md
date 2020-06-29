@@ -1,2 +1,2 @@
-# mokey
+# modmail
 meh
